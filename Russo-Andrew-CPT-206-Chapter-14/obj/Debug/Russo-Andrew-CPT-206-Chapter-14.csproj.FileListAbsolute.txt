@@ -1,0 +1,12 @@
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\bin\Debug\ProductDB.mdf
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\bin\Debug\ProductDB_log.ldf
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\bin\Debug\Russo-Andrew-CPT-206-Chapter-14.exe.config
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\bin\Debug\Russo-Andrew-CPT-206-Chapter-14.exe
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\bin\Debug\Russo-Andrew-CPT-206-Chapter-14.pdb
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\obj\Debug\Russo-Andrew-CPT-206-Chapter-14.csproj.AssemblyReference.cache
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\obj\Debug\Russo_Andrew_CPT_206_Chapter_14.Form1.resources
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\obj\Debug\Russo_Andrew_CPT_206_Chapter_14.Properties.Resources.resources
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\obj\Debug\Russo-Andrew-CPT-206-Chapter-14.csproj.GenerateResource.cache
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\obj\Debug\Russo-Andrew-CPT-206-Chapter-14.csproj.CoreCompileInputs.cache
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\obj\Debug\Russo-Andrew-CPT-206-Chapter-14.exe
+D:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Chapter-14\obj\Debug\Russo-Andrew-CPT-206-Chapter-14.pdb
