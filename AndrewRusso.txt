@@ -1,0 +1,9 @@
+Andrew Russo:
+
+I want to start off by saying your form is terrific. I tried to break it to no advail. After reviewing the form, I did find that there is no error message in the 'Search By Price' groupbox. If you input letters instead of names, the code does not crash (Yay!!), but I recommend an error message to let the user know to input numbers instead of letters. I also liked that the searches updated your datagrid rather than a list box on the side - like I did. Also regarding the form, I recommend adding a clear button for your text boxes. I also do not believe you set up your productBindingNavigator.
+
+Regarding your code, also great, but I would like to make some suggestions and note a few things I caught. I liked how many comments you used, but some of the context is hard to follow, as you do not use the same "rules" for each comment (ie: start with lowercase, or uppercase, a space after "//" or not, etc.). You also had several lines of dead code in various comments throughout the code. I also liked for your close button you added "MessageBox.Show("Thank you for running the program!");". Finally, also regarding conciseness, I personally would make your button names a little shorter. I believe mine looked something like this "buttonMaxPrice," so on and so forth. 
+
+It looks amazing! These are pretty much nit-picky things because I couldn't find anything completely wrong with it.
+
+
