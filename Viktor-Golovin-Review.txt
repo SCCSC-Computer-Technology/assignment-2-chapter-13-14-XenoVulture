@@ -1,0 +1,6 @@
+I liked the whole layout, I specifically liked how you took care of potential from crashing the program like inputting the wrong kind of variable (integer vs string)
+The text that explained the code was also clear, I could tell where you get input strings, load results into the grid, get all Product objects from the table etc. The code is just overall easy to read. It isn't repetetive either which is important when it comes to efficiency and someone else reading your code. 
+I liked the message box when you close the application. 
+I also liked the "Please enter at least a partial description of the item (one (1) or more characters)." message box that you implemented to show the user that theirs an error if they didn't enter a correct description, instead of the whole program crashing and the "please enter a whole number".
+Overall a good program, reminded me that I should've put message boxes in else statements for errors when the user doesn't enter the correct field. 
+Good job
